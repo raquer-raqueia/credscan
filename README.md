@@ -2,7 +2,7 @@
 
 > Ferramenta interna para equipes de **SOC** e **Threat Intelligence**, desenvolvida para identificar credenciais vazadas de domínios monitorados em grandes volumes de arquivos de dump, cruzando os achados com uma blacklist de itens já reportados.
 
-<img width="738" height="970" alt="image" src="https://github.com/user-attachments/assets/44be247e-8ccd-49bb-870d-14c93d46ee85" />
+<img width="740" height="853" alt="image" src="https://github.com/user-attachments/assets/72ab3c2c-0cf7-4ce4-a148-a4300fcbb4f4" />
 
 
 ---
@@ -133,12 +133,9 @@ Durante a execução, o terminal exibe uma barra de progresso em tempo real:
 
 #### Ao finalizar, o relatório é exibido com as seguintes seções:
 
-<img width="657" height="507" alt="image" src="https://github.com/user-attachments/assets/6d707746-f32a-4f39-8b9d-2510816ca64b" />
+<img width="674" height="500" alt="image" src="https://github.com/user-attachments/assets/22574fc1-98fe-4d85-a96c-850811feaf02" />
 
-<img width="774" height="482" alt="image" src="https://github.com/user-attachments/assets/c1c54be9-61e7-4a56-b48a-8f8b45c4d4b1" />
-
-
-
+<img width="752" height="475" alt="image" src="https://github.com/user-attachments/assets/86271627-75ff-4ada-8f6f-d273b7041394" />
 
 ---
 
